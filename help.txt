@@ -1,0 +1,17 @@
+Font-Link: @import url('https://fonts.googleapis.com/css2?family=Sono:wght@200&display=swap');
+Font-Name: font-family: 'Sono', sans-serif;
+
+CSS Reset: https://gist.github.com/Asjas/4b0736108d56197fce0ec9068145b421
+
+
+Nature Photography / August 18 - 2023
+Your ideal Professional Photography Tutor is here.
+Read More
+
+Your Mentor - John Doe
+Want to improve your photography skills?
+Read More
+
+Excellent Quality / July 21 - 2023
+Follow us for your inspiration.
+Read More
